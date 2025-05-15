@@ -1,2 +1,15 @@
-# My-tech-portfolio
-This repository showcases my work in web development, automation, and freelancing. It includes HTML/CSS projects, a Jarvis virtual assistant (Python), and insights into freelancing &amp; tech learning. Explore the code, documentation, and projects to see my journey in technology! 🚀  Short and to the point! Let me know if you'd like any refinements. 😊
+# My Tech Portfolio
+
+## 🧑‍💻 About Me
+I am passionate about web development and have built multiple basic HTML & CSS projects showcasing my skills.  
+
+## 📌 Projects
+1. Personal Web Page – A simple homepage using HTML & CSS.
+2. Article Website – Multi-page website with styling.
+3. Interactive Elements – Basic JavaScript-based features.  
+
+## 📂 Notes
+I have also compiled my **HTML notes** to strengthen my knowledge in web development.  
+
+## 🔗 Portfolio Link
+[Click here to view my portfolio repository](your-repository-link)  
